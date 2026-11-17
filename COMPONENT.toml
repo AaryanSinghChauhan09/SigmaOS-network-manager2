@@ -3,7 +3,7 @@ name = "SigmaOS-network-manager2"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "network-manager2 component"
+description = "Network Manager network manager compatibility layer for SigmaOS"
 upstream = []
 
 [contract]
