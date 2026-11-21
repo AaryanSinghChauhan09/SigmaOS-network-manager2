@@ -5,6 +5,9 @@
 //! Replaces the placeholder stub.
 
 use std::collections::BTreeMap;
+/// Network configuration management module.
+pub mod sigmanetwork;
+
 use std::fmt;
 
 #[derive(Debug, Clone, PartialEq, Eq)]
